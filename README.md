@@ -1,6 +1,6 @@
 # NgVideoGame
-### Simple Angular Application that uses Rapid API of RAWG Video Games Database.
-### I have created this project by learning from FreeCodeCamp YouTube tutorial on Angular.
+Simple Angular Application that uses Rapid API of RAWG Video Games Database.
+I have created this project by learning from FreeCodeCamp YouTube tutorial on Angular.
 
 # Tools
 1. Angular CLI
@@ -9,8 +9,8 @@
 4. Rapid API - RAWG Video Games DB
 
 # Useful Links
-### Rapid API Link - [RAWG Video Games DB](https://rapidapi.com/accujazz/api/rawg-video-games-database) 
-### FreeCodeCamp tutorial Link - [Angular project](https://www.youtube.com/watch?v=LiOzTQAz13Q)
+#### Rapid API Link - [RAWG Video Games DB](https://rapidapi.com/accujazz/api/rawg-video-games-database) 
+#### FreeCodeCamp tutorial Link - [Angular project](https://www.youtube.com/watch?v=LiOzTQAz13Q)
 
 # ScreenShots
 
